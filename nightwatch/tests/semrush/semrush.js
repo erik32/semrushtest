@@ -9,4 +9,3 @@ module.exports = {
       .end();
   }
 };
-//java "-Dwebdriver.firefox.profile=webdriver" -jar selenium.jar
