@@ -1,4 +1,4 @@
-# Semrushtest
+# SEMrush test
 
 Npm, nightwatch.js and grunt should be installed.
 
