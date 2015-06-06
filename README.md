@@ -1,0 +1,2 @@
+# semrushtest
+Some .js test
