@@ -13,6 +13,8 @@ c. Exit browser.
 
 #Running
 
+```
 $ git clone https://github.com/erik32/semrushtest.git
 $ cd nightwatch
 $ grunt nightwatch:default
+```
