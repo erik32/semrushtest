@@ -2,6 +2,8 @@
 
 Npm, nightwatch.js and grunt should be installed.
 
+
+
 #OnPrepare
 
 Prepare Firefox profile with SEOquake panel:
@@ -11,4 +13,6 @@ c. Exit browser.
 
 #Running
 
-Navigate to folder "nightwatch" and run command "grunt nightwatch:default"
+$ git clone https://github.com/erik32/semrushtest.git
+$ cd nightwatch
+$ grunt nightwatch:default
